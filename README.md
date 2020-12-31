@@ -1,6 +1,10 @@
 # 获取百度文库文本的方法执行步骤
 * 使用软件：Chrome
 
+* 注意：
+
+    * 使用方式1同时也解除了百度文库的ctrl+c限制。
+
 * 可选方式1：
     * 安装Chrome的JS插件：参考https://my.oschina.net/hetiangui/blog/135744
 
