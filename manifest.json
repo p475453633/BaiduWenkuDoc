@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "BaiduWenkuScript",
+    "version": "1.0",
+    "description": "百度文库doc文档文本内容获取",
+    "browser_action": {
+      "default_icon": "icon.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://wenku.baidu.com/*"],
+        "js": ["BaiduWenkuDocScript.js"],
+        "run_at": "document_idle"
+      }
+    ]
+  }
