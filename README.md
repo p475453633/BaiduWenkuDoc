@@ -3,6 +3,7 @@
 
 * 可选方式1：
     * 安装Chrome的JS插件：参考https://my.oschina.net/hetiangui/blog/135744
+    * 安装插件后重新刷新页面，F12打开Console面板即可看到文本内容。
     * 步骤如下：![image-20201231145658719](TyporaPic/README/image-20201231145658719.png)
     
     ![img](http://static.oschina.net/uploads/space/2013/0605/135100_ZKtL_1024047.png)
